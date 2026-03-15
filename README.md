@@ -11,7 +11,7 @@ Learning web development
     <p> I a generator mechanic before going to where I study computer science education at Ekiti state, presently I am learning software development at 3mtt Nigeria and it's an empowerment program of new hope agenda of President Bola Ahmed Tinubu</p>
     <h2>Favorite Food</h2>
     <p><b>My favorite food is beans.</b></p>
-    <h3 favorite website:><alt>https://github.com/McWhite001</alt></h3>
+    <h3>favorite website:<alt>https://github.com/McWhite001</alt></h3>
     <p>I am learning web development</p> 
 </body>
 </html>
