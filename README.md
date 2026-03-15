@@ -1,5 +1,3 @@
-# My-3MTT-ASSIGNMENT
-Learning web development 
 <!DOCTYPE html>
 <html lang="en">
 <head>
